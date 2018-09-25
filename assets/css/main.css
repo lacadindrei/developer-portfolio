@@ -122,8 +122,10 @@ h2, p, h3, button, a {
 }
 
 .brand-logo {
- font-family: 'Josefin Sans', sans-serif !important;
- font-size: 1.7rem;
+ font-family: 'Cinzel', serif!important;
+ font-size: 1.6rem;
+ color: #DFE0DC!important;
+ padding-bottom: .5em;
  /*padding-top: .6rem;*/
 }
 
